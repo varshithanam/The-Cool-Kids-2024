@@ -3,7 +3,7 @@
 ## Details
 **Team Name: The Cool Kids** 
 
-*Team Members: 5
+* Team Members: 5
      * Name: Alexander Hooper
      * Name: Ethan Timpe
      * Name: Hana Tollossa
