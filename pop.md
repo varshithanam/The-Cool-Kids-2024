@@ -4,7 +4,7 @@
 Team Name: The Cool Kids
 
 Team Members:5
-     	* Name: Alexander Hooper
+      * Name: Alexander Hooper
       * Name: Ethan Timpe
       * Name: Hana Tollossa
       * Name: Jahcorian Ivery
