@@ -10,7 +10,7 @@
      * Name: Jahcorian Ivery
      * Name: Varshitha Thanam
 
-## Synopsis
+* Synopsis :
      * We are creating a "Web-based budgeting application."
      * We will be using a combination of the Waterfall and Agile system development process. 
      * For the coding part of the project, we will be using a ________ programming code. 
@@ -20,7 +20,7 @@
      * If this project succeeds, it allow people to be able to do their budgeting independently or with family members.
      
      
-2-5 sentence description of project outcome. Think about "intellectual merit" (why is this cool for learning) and "broader impact" (why is it good if we succeed).
+`2-5 sentence description of project outcome. Think about "intellectual merit" (why is this cool for learning) and "broader impact" (why is it good if we succeed).` 
 
 ## Components
 * Component1
