@@ -1,14 +1,14 @@
-# Project Proposal Overview
+## Project Proposal Overview
 
 ## Details
-Team Name: The Cool Kids
+**Team Name: The Cool Kids** 
 
-Team Members: 5
-      * Name: Alexander Hooper
-      * Name: Ethan Timpe
-      * Name: Hana Tollossa
-      * Name: Jahcorian Ivery
-      * Name: Varshitha Thanam
+*Team Members: 5
+     * Name: Alexander Hooper
+     * Name: Ethan Timpe
+     * Name: Hana Tollossa
+     * Name: Jahcorian Ivery
+     * Name: Varshitha Thanam
 
 ## Synopsis
      * We are creating a "Web-based budgeting application."
