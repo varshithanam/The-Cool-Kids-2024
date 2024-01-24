@@ -1,4 +1,4 @@
-## Project Proposal Overview
+# Project Proposal Overview
 
 ## Details
 **Team Name: The Cool Kids** 
